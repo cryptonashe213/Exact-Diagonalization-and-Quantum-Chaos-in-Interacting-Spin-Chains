@@ -1,0 +1,2 @@
+# Exact-Diagonalization-and-Quantum-Chaos-in-Interacting-Spin-Chains
+Computational study of a disordered quantum spin-1/2 XXZ chain, focusing on many-body localization and the breakdown of the Eigenstate Thermalization Hypothesis (ETH).  Implemented numerical simulations in Python to investigate the spectral and physical properties of quantum many-body systems, using exact diagonalization and numerical data analysis
